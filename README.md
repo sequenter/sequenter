@@ -1,4 +1,14 @@
-### Hi there 👋
+
+<h3 align="center">👋 Hello there!</h3>
+<p align="center">
+  My name is Daniel, also known as onemandan.  If you'd like to know a little bit more about me, visit my <a href="https://onemandan.github.io">GitHub Pages Site</a>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/onemandan" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onemandan&layout=compact">
+  </a>
+</p>
 
 <!--
 **onemandan/onemandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
